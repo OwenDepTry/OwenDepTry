@@ -26,7 +26,7 @@ I build projects mostly in Python and Java, from Vietnamese text summarization a
 ### GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OwenDepTry&show_icons=true&hide_border=true&theme=transparent" alt="OwenDepTry's GitHub stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=OwenDepTry&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="OwenDepTry's GitHub stats" height="150">
 </p>
 
 ### Contact
