@@ -31,4 +31,4 @@ I build projects mostly in Python and Java, from Vietnamese text summarization a
 
 ### Contact
 
-[GitHub](https://github.com/OwenDepTry) · [Facebook](https://www.facebook.com/owentoichoi)
+[Kaggle](https://www.kaggle.com/owen298) · [Facebook](https://www.facebook.com/owentoichoi)
