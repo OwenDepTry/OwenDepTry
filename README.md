@@ -18,7 +18,7 @@
 - 🤖 Interested in **AI/ML and NLP**, especially for Vietnamese text (fine-tuning, evaluation, inference optimization)
 - 🌐 Enjoy building **full-stack web apps** and deploying them for real users
 - ☕ Practicing solid **OOP and database design** through Java coursework and team projects
-- 🌱 Currently learning **[ADD HERE]**
+- 🌱 Currently learning **Machine Learning, Deep Learning and Natural Language Processing**
 - 📫 Reach me at **tiendatsgu298@gmail.com**
 
 ---
