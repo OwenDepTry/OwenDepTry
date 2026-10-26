@@ -15,7 +15,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 Information Technology student majoring in **Computer Science** at **Saigon University** — [YEAR, e.g. 2nd-year]
-- 🤖 Interested in **AI/ML and NLP**, especially for Vietnamese text (fine-tuning, evaluation, inference optimization)
+- 🤖 Passionate about **Artificial Intelligence**, especially:
+  - 📈 **Machine Learning** — ensemble methods, explainable AI (XAI), anomaly & fraud detection
+  - 🧠 **Deep Learning** — Transformer architectures, parameter-efficient fine-tuning (LoRA), model compression & quantization for faster inference
+  - 💬 **Natural Language Processing** — Vietnamese text summarization, Retrieval-Augmented Generation (RAG), LLM evaluation & hallucination detection
 - 🌐 Enjoy building **full-stack web apps** and deploying them for real users
 - ☕ Practicing solid **OOP and database design** through Java coursework and team projects
 - 🌱 Currently learning **Machine Learning, Deep Learning and Natural Language Processing**
