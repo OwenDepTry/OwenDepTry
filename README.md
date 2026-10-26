@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Information Technology student majoring in **Computer Science** at **Saigon University** — [YEAR, e.g. 2nd-year]
+- 🎓 Information Technology student majoring in **Computer Science** at **Saigon University** — [YEAR, e.g. 3nd-year]
 - 🤖 Passionate about **Artificial Intelligence**, especially:
   - 📈 **Machine Learning** — ensemble methods, explainable AI (XAI), anomaly & fraud detection
   - 🧠 **Deep Learning** — Transformer architectures, parameter-efficient fine-tuning (LoRA), model compression & quantization for faster inference
