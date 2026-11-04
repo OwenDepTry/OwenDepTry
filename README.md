@@ -15,6 +15,7 @@
 
 <p align="left">
   <a href="https://www.facebook.com/owentoichoi" target="_blank"><img src="https://img.shields.io/badge/Facebook-ff69b4?style=for-the-badge&logo=facebook&logoColor=white" height="28" alt="Facebook"/></a>
+  <a href="mailto:tiendatsgu298@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail"/></a>
 </p>
 
 ### Languages and Tools:
@@ -26,8 +27,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OwenDepTry&theme=react&show_icons=true&include_all_commits=true" height="180" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwenDepTry&theme=react&layout=compact" height="180" alt="Top languages"/>
+  <img src="https://github-readme-stats-two-chi-77.vercel.app/api?username=OwenDepTry&theme=react&show_icons=true&include_all_commits=true" height="180" alt="GitHub stats"/>
+  <img src="https://github-readme-stats-two-chi-77.vercel.app/api/top-langs/?username=OwenDepTry&theme=react&layout=compact" height="180" alt="Top languages"/>
 </p>
 
 <p align="center">
